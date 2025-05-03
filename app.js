@@ -10,5 +10,5 @@ app.use('/generate',generate);
 
 
 app.listen('3000', () => {
-    console.log("Server is running a")
+    console.log("Server is running...")
 })
